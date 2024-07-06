@@ -50,4 +50,6 @@ dependencies {
 
     implementation(libs.lottie)
 
+    // koin
+    implementation(libs.koin)
 }
